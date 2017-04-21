@@ -28,4 +28,4 @@ For more practice in GitHub including learning about branches, try this exercise
 
 ## Notes 
 * GitHub automatically renders text that's written in markdown 
-* [website] (http://phoebeayers.info) 
+* [website](http://phoebeayers.info) 
