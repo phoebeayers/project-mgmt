@@ -26,6 +26,6 @@ When you are done, click on the [EXERCISES](/EXERCISES/) folder and follow the i
 
 For more practice in GitHub including learning about branches, try this exercise: https://guides.github.com/activities/hello-world/ 
 
-##Notes 
+## Notes 
 * GitHub automatically renders text that's written in markdown 
 * [website] (http://phoebeayers.info) 
